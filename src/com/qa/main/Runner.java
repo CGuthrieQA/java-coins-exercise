@@ -6,8 +6,8 @@ public class Runner {
 		
 		Coins use = new Coins();
 		
-		float cost = 4.58f;
-		float ammount = 20.00f;
+		float cost = 14.58f;
+		float ammount = 90.00f;
 		
 		use.transaction(cost, ammount);
 
